@@ -1,0 +1,17 @@
+@import 'normalize';
+@import 'formalize';
+@import 'variables';
+@import 'header';
+@import 'content';
+
+
+
+p {
+    font-size: $my-font;
+}
+
+a {
+    font-size: $my-font;
+    text-decoration: none;
+    color: rgb(90, 90, 90);
+}
